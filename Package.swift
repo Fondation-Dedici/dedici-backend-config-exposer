@@ -4,7 +4,7 @@ import Foundation
 import PackageDescription
 
 internal let package = Package(
-    name: "dedici-vapor-config-exposer",
+    name: "dedici-backend-config-exposer",
     platforms: [
         .macOS(.v10_15),
     ],
